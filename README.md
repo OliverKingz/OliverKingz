@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **oliverkingz/oliverkingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a align="center" href="https://github.com/oakoudad/badge42">
+  <img align="center" src="https://badge.mediaplus.ma/greenbinary/ozamora-?1337Badge=off&UM6P=off" alt="ozamora-'s 42 stats" style="height: 200px;" />
+</a><br>
 -->
+
+<a href="https://github.com/oliverkingz/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oliverkingz&theme=vue-dark" />
+</a>
+<a href="https://github.com/oliverkingz/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverkingz&layout=compact&langs_count=8&card_width=320&theme=vue-dark" />
+</a>
