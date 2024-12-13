@@ -31,7 +31,7 @@
 ![Makefile](https://img.shields.io/badge/Makefile%20-%230077B5.svg?style=for-the-badge&logo=gnu&logoColor=white)
 </div>
 
-### Working on learnings new Languages
+### Learning in Progress
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
