@@ -63,11 +63,11 @@
 
 ## GitHub Stats
 <p align="center">
-  <a href="https://github.com/oliverkingz/github-readme-stats">
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=oliverkingz&theme=vue-dark" />
-  </a>
   <a href="https://github.com/oliverkingz/convoychat">
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverkingz&layout=compact&langs_count=8&card_width=320&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/oliverkingz/github-readme-stats">
+    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=oliverkingz&theme=vue-dark" />
   </a>
   <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverkingz&theme=vue-dark" alt="streak graph" />
 </p>
