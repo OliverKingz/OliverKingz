@@ -21,7 +21,28 @@
 -  I’m currently learning C and Unix Shell
 -  I'm currently working on my 42 Madrid Cursus' Rank 2: Push_swap, pipex and so_long
 -  Current learning goals: C++, HTML, CSS, Javascript, Python
+
 <p align="center">
+  <table style="text-align: center; border: 3px solid black; padding: 10px; margin-left: auto; margin-right: auto;">
+    <tr>
+      <th colspan="3"><a href="https://github.com/oliverkingz/42-Madrid-Cursus">42 Cursus</a></th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oliverkingz/Libft_OZ">libft</a></td>
+      <td><a href="https://github.com/oliverkingz/ft_printf">ft_printf</a></td>
+      <td><a href="https://github.com/oliverkingz/get_next_line">get_next_line</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oliverkingz/so_long">so_long</a></td>
+      <td><a href="https://github.com/oliverkingz/push_swap">push_swap</a></td>
+      <td><a href="https://github.com/oliverkingz/pipex">pipex (WIP)</a></td>
+    </tr>
+    <tr>
+      <td><a>philosophers</a></td>
+      <td colspan="2" style="text-align: center;><a">minishell</a></td>
+    </tr>
+  </table>
+</p>
 
 ### Known Languages:
 <div align="center">
@@ -52,7 +73,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 </div>
 
-### Goal Languages and Tehnologies
+### Goal Languages and Technologies
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -60,15 +81,15 @@
 ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)<br>
 </div>
-
+  
 ## GitHub Stats
 <p align="center">
-  <a href="https://github.com/oliverkingz/convoychat">
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverkingz&layout=compact&langs_count=8&card_width=320&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/oliverkingz/github-readme-stats">
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=oliverkingz&theme=vue-dark" />
-  </a>
-  <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverkingz&theme=vue-dark" alt="streak graph" />
+    <a href="https://github.com/oliverkingz/convoychat">
+      <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverkingz&layout=compact&langs_count=8&card_width=320&theme=vue-dark" />
+    </a>
+    <a href="https://github.com/oliverkingz/github-readme-stats">
+      <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=oliverkingz&theme=vue-dark" />
+    </a>
+    <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverkingz&theme=vue-dark" alt="streak graph" />
 </p>
 
