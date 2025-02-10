@@ -33,19 +33,26 @@ Here are some of my key projects from the **42 Madrid Cursus**:
 <div align="center">
  <table >
    <tr>
-     <th colspan="3"><a href="https://github.com/oliverkingz/42-Madrid-Cursus">42 Cursus</a></th>
+     <th colspan="4"><a href="https://github.com/oliverkingz/42-Madrid-Cursus">42 Cursus - Common Core</a></th>
    </tr>
    <tr>
-     <td align="center"><a href="https://github.com/oliverkingz/Libft_OZ">libft</a></td>
+     <td align="center">Rank 0</td>
+     <td align="center" colspan="3"><a href="https://github.com/oliverkingz/Libft_OZ">libft</a></td>
+   </tr>
+   <tr>
+     <td align="center">Rank 1</td>
+     <td align="center"><a href="https://github.com/oliverkingz/Born2beRoot">Born2beRoot</a></td>
      <td align="center"><a href="https://github.com/oliverkingz/ft_printf">ft_printf</a></td>
      <td align="center"><a href="https://github.com/oliverkingz/get_next_line">get_next_line</a></td>
    </tr>
    <tr>
+     <td align="center">Rank 2</td>
      <td align="center"><a href="https://github.com/oliverkingz/so_long">so_long</a></td>
      <td align="center"><a href="https://github.com/oliverkingz/push_swap">push_swap</a></td>
      <td align="center"><a href="https://github.com/oliverkingz/pipex">pipex (WIP)</a></td>
    </tr>
    <tr>
+     <td align="center">Rank 3</td>
      <td align="center"><a>philosophers</a></td>
      <td colspan="2" align="center"><a>minishell</a></td>
    </tr>
