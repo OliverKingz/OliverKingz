@@ -41,25 +41,25 @@ Here are some of my key projects from the **42 Madrid Cursus**:
    </tr>
    <tr>
      <td align="center">Rank 1</td>
-     <td align="center">🖥 <a href="https://github.com/oliverkingz/Born2beRoot">Born2beRoot</a></td>
-     <td align="center">🖨 <a href="https://github.com/oliverkingz/ft_printf">ft_printf</a></td>
-     <td align="center">➖ <a href="https://github.com/oliverkingz/get_next_line">get_next_line</a></td>
+     <td align="center">💻 <a href="https://github.com/oliverkingz/Born2beRoot">Born2beRoot</a></td>
+     <td align="center">🖨️ <a href="https://github.com/oliverkingz/ft_printf">ft_printf</a></td>
+     <td align="center">📜 <a href="https://github.com/oliverkingz/get_next_line">get_next_line</a></td>
    </tr>
    <tr>
      <td align="center">Rank 2</td>
-     <td align="center">🕹️ <a href="https://github.com/oliverkingz/so_long">so_long</a></td>
+     <td align="center">🎮 <a href="https://github.com/oliverkingz/so_long">so_long</a></td>
      <td align="center">↹ <a href="https://github.com/oliverkingz/push_swap">push_swap</a></td>
-     <td align="center">🔌 <a href="https://github.com/oliverkingz/pipex">pipex</a></td>
+     <td align="center">🔗 <a href="https://github.com/oliverkingz/pipex">pipex</a></td>
    </tr>
    <tr>
      <td align="center">Rank 3</td>
-     <td align="center">🍽 <a href="https://github.com/oliverkingz/philosophers">philosophers (WIP)</a></td>
+     <td align="center">🍴 <a href="https://github.com/oliverkingz/philosophers">philosophers (WIP)</a></td>
      <td colspan="2" align="center">🐚 <a href="https://github.com/oliverkingz/minishell">minishell (WIP)</a></td>
    </tr>
    <tr>
      <td align="center">Rank 4</td>
-     <td align="center">🧩 <a>CPP Modules 00-04</a></td>
-     <td align="center">📡 <a>NetPractice</a></td>
+     <td align="center">🤖 <a>CPP Modules 00-04</a></td>
+     <td align="center">🖧 <a>NetPractice</a></td>
      <td align="center">🔦 <a>miniRT</a></td>
    </tr>
  </table>
