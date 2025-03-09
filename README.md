@@ -66,42 +66,15 @@ Here are some of my key projects from the **42 Madrid Cursus**:
 </div>
 
 ## 🛠️ Language and Technologies Toolset
-### Proficient Languages:
 <div align="center">
 
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile%20-%230077B5.svg?style=for-the-badge&logo=gnu&logoColor=white)
-</div>
+| Category                 | Technologies                                                                                              |
+|--------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Proficient Languages** | <p align="center"> ![C][] ![Bash][] ![Makefile][] </p>                                                    |
+| **Currently Learning**   | <p align="center"> ![HTML5][] ![Java][] ![JavaScript][] ![TypeScript][] ![React][] ![Tailwind CSS][] </p> |
+| **Tools and Software**   | <p align="center"> ![Git][] ![GitHub][] ![Visual Studio Code][] ![Linux][] ![Slack][] </p>                |
+| **Future Goals**         | <p align="center"> ![Python][] ![SQL][] ![Docker][] ![Kubernetes][] </p>                                  |
 
-### Currently Learning
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</div>
-
-### Tools and Software
-<div align="center">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-</div>
-
-### Future Goals
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)<br>
 </div>
 
 ## 📊 GitHub Stats
@@ -115,11 +88,39 @@ Here are some of my key projects from the **42 Madrid Cursus**:
     <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverkingz&theme=vue-dark" alt="streak graph" />
 </p>
 
-## 💬 **Let’s Connect!**
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-king-zamora/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oliverkingzamora@gmail.com)
+| Contact me!                                                        |
+|--------------------------------------------------------------------|
+| <p align="center"> [![LinkedIn]][LI_Link] [![Email]][EM_Link] </p> |
+
 </div>
 
 ---
+
+[C]: https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white
+[Bash]: https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
+[Makefile]: https://img.shields.io/badge/Makefile%20-%230077B5.svg?style=for-the-badge&logo=gnu&logoColor=white
+
+[HTML5]: https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[Java]: https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[JavaScript]: https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black
+[TypeScript]: https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[React]: https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black
+[Tailwind CSS]: https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+
+[Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[GitHub]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[Visual Studio Code]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+
+[Python]: https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white
+[SQL]: https://img.shields.io/badge/SQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Docker]: https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white
+[Kubernetes]: https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[Email]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[LI_Link]: https://www.linkedin.com/in/oliver-king-zamora/
+[EM_Link]: oliverkingzamora@gmail.com
