@@ -97,7 +97,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
 </div>
 
 ---
-
+<!-- Badge Image Links -->
 [C]: https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white
 [Bash]: https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Makefile]: https://img.shields.io/badge/Makefile%20-%230077B5.svg?style=for-the-badge&logo=gnu&logoColor=white
@@ -120,6 +120,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
 [Docker]: https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white
 [Kubernetes]: https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
 
+<!-- Contact Links -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Email]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [LI_Link]: https://www.linkedin.com/in/oliver-king-zamora/
