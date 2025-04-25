@@ -53,8 +53,8 @@ Here are some of my key projects from the **42 Madrid Cursus**:
    </tr>
    <tr>
      <td align="center">Rank 3</td>
-     <td align="center">🍴 <a href="https://github.com/oliverkingz/philosophers">philosophers (WIP)</a></td>
-     <td colspan="2" align="center">🐚 <a href="https://github.com/oliverkingz/minishell">minishell </a></td>
+     <td align="center">🍴 <a href="https://github.com/oliverkingz/philosophers">philosophers</a></td>
+     <td colspan="2" align="center">🐚 <a href="https://github.com/oliverkingz/minishell">minishell</a></td>
    </tr>
    <tr>
      <td align="center">Rank 4</td>
