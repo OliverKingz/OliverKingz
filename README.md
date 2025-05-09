@@ -58,9 +58,19 @@ Here are some of my key projects from the **42 Madrid Cursus**:
    </tr>
    <tr>
      <td align="center">Rank 4</td>
-     <td align="center">🤖 <a>CPP Modules 00-04</a></td>
-     <td align="center">🖧 <a>NetPractice</a></td>
-     <td align="center">🔦 <a>miniRT</a></td>
+     <td align="center">🤖 <a href="https://github.com/oliverkingz/cpp_modules">CPP Modules 00-04</a></td>
+     <td align="center">🖧 <a href="https://github.com/oliverkingz/netpractice">NetPractice</a></td>
+     <td align="center">🔦 <a href="https://github.com/oliverkingz/miniRT">miniRT</a></td>
+   </tr>
+   <tr>
+     <td align="center">Rank 5</td>
+     <td align="center">🤖 <a href="https://github.com/oliverkingz/cpp_modules">CPP Modules 05-09</a></td>
+     <td align="center">🐳 <a>Inception</a></td>
+     <td align="center">🌐 <a>webserv</a></td>
+   </tr>
+   <tr>
+     <td align="center">Rank 6</td>
+     <td align="center" colspan="3">💫 <a>Trascendance</a></td>
    </tr>
  </table>
 </div>
