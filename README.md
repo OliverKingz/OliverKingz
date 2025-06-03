@@ -60,7 +60,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
      <td align="center">Rank 4</td>
      <td align="center">🤖 <a href="https://github.com/oliverkingz/cpp_modules">CPP Modules 00-04</a></td>
      <td align="center">🖧 <a href="https://github.com/oliverkingz/netpractice">NetPractice</a></td>
-     <td align="center">🔦 <a href="https://github.com/oliverkingz/miniRT">miniRT</a></td>
+     <td align="center">🔦 <a href="https://github.com/oliverkingz/cub3d">Cub3d</a></td>
    </tr>
    <tr>
      <td align="center">Rank 5</td>
