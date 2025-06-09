@@ -60,7 +60,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
      <td align="center">Rank 4</td>
      <td align="center">🤖 <a href="https://github.com/oliverkingz/cpp_modules">CPP Modules 00-04</a></td>
      <td align="center">🖧 <a href="https://github.com/oliverkingz/netpractice">NetPractice</a></td>
-     <td align="center">🔦 <a href="https://github.com/oliverkingz/cub3d">Cub3d</a></td>
+     <td align="center">🔦 <a href="https://github.com/oliverkingz/cub3d">Cub3D</a></td>
    </tr>
    <tr>
      <td align="center">Rank 5</td>
@@ -80,10 +80,10 @@ Here are some of my key projects from the **42 Madrid Cursus**:
 
 | Category                 | Technologies                                                                                              |
 |--------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Proficient Languages** | <p align="center"> ![C][] ![Bash][] ![Makefile][] </p>                                                    |
+| **Proficient Languages** | <p align="center"> ![C][] ![C++][] ![Bash][] ![Makefile][] ![Python][] </p> |
 | **Currently Learning**   | <p align="center"> ![HTML5][] ![Java][] ![JavaScript][] ![TypeScript][] ![React][] ![Tailwind CSS][] </p> |
 | **Tools and Software**   | <p align="center"> ![Git][] ![GitHub][] ![Visual Studio Code][] ![Linux][] ![Slack][] </p>                |
-| **Future Goals**         | <p align="center"> ![Python][] ![SQL][] ![Docker][] ![Kubernetes][] </p>                                  |
+| **Future Goals**         | <p align="center"> ![SQL][] ![Docker][] ![Kubernetes][] </p>                                  |
 
 </div>
 
@@ -109,6 +109,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
 ---
 <!-- Badge Image Links -->
 [C]: https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white
+[C++]: https://camo.githubusercontent.com/88e1b21c4e11afd4f06cfb2b510dbb3690dbd300fb1a6d4676fd553a70bafa82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465
 [Bash]: https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Makefile]: https://img.shields.io/badge/Makefile%20-%230077B5.svg?style=for-the-badge&logo=gnu&logoColor=white
 
