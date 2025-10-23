@@ -66,7 +66,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
      <td align="center">Rank 5</td>
      <td align="center">🤖 <a href="https://github.com/oliverkingz/cpp_modules">CPP Modules 05-09</a></td>
      <td align="center">🐳 <a>Inception</a></td>
-     <td align="center">🌐 <a>webserv</a></td>
+     <td align="center">🌐 <a href="https://github.com/oliverkingz/webserv">webserv</a></td>
    </tr>
    <tr>
      <td align="center">Rank 6</td>
