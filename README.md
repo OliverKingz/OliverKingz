@@ -65,7 +65,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
    <tr>
      <td align="center">Rank 5</td>
      <td align="center">🤖 <a href="https://github.com/oliverkingz/cpp_modules">CPP Modules 05-09</a></td>
-     <td align="center">🐳 <a>Inception</a></td>
+     <td align="center">🐳 <a href="https://github.com/oliverkingz/inception">Inception</a></td>
      <td align="center">🌐 <a href="https://github.com/oliverkingz/ft_irc">ft_irc</a></td>
    </tr>
    <tr>
@@ -80,10 +80,10 @@ Here are some of my key projects from the **42 Madrid Cursus**:
 
 | Category                 | Technologies                                                                                              |
 |--------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Proficient Languages** | <p align="center"> ![C][] ![C++][] ![Bash][] ![Makefile][] ![Python][] </p> |
+| **Proficient Languages** | <p align="center"> ![C][] ![C++][] ![Bash][] ![Makefile][] ![Python][] </p>                               |
 | **Currently Learning**   | <p align="center"> ![HTML5][] ![Java][] ![JavaScript][] ![TypeScript][] ![React][] ![Tailwind CSS][] </p> |
 | **Tools and Software**   | <p align="center"> ![Git][] ![GitHub][] ![Visual Studio Code][] ![Linux][] ![Slack][] </p>                |
-| **Future Goals**         | <p align="center"> ![SQL][] ![Docker][] ![Kubernetes][] </p>                                  |
+| **Future Goals**         | <p align="center"> ![SQL][] ![Docker][] ![Kubernetes][] </p>                                              |
 
 </div>
 
