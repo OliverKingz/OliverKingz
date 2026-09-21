@@ -70,7 +70,7 @@ Here are some of my key projects from the **42 Madrid Cursus**:
    </tr>
    <tr>
      <td align="center">Rank 6</td>
-     <td align="center" colspan="3">💫 <a>Trascendance</a></td>
+     <td align="center" colspan="3">💫 <a href="https://github.com/Dardo95/ft_transcendence">Trascendance</a></td>
    </tr>
  </table>
 </div>
